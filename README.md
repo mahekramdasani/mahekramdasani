@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, DSA and Python👩‍💻**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-beryl-phi-53.vercel.app/](https://portfolio-beryl-phi-53.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mahekramdasani.vercel.app/)
 
 - 💬 Ask me about **Java,Python and Data Science👩‍💻**
 
