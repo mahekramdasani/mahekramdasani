@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahekramdasani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CSMLwZDMdqvoscA9yRaJM9Z7fbTvu15n/view](https://drive.google.com/file/d/1CSMLwZDMdqvoscA9yRaJM9Z7fbTvu15n/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YOv2fO_o68HrnYnCCdJB0nYSN052_tcN/view)
 
 - ⚡ Fun fact **I love cricket🏏**
 
